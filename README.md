@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 15 |
+| 29 | 16 |
 
 ---
 
@@ -15,17 +15,18 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (3)
-- [combinatorics](#combinatorics) (1)
+- [brute force](#brute-force) (4)
+- [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [dp](#dp) (4)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (15)
 - [implementation](#implementation) (11)
 - [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (8)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -56,12 +57,14 @@
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
 ### constructive algorithms
 
@@ -70,12 +73,19 @@
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 
@@ -164,6 +174,7 @@
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
+| 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 
