@@ -6,17 +6,50 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 16 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
+- [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (1)
-- [math](#math) (1)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (6)
+- [math](#math) (6)
+- [sortings](#sortings) (4)
+- [strings](#strings) (3)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2175C | [Needle in a Haystack](https://codeforces.com/contest/2175/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2175/C%20-%20Needle%20in%20a%20Haystack/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+| 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 
 ### geometry
 
@@ -28,13 +61,55 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
+| 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
+| 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+| 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
+| 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 
 ---
 
