@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 16 |
+| 32 | 16 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (6)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (17)
+- [greedy](#greedy) (18)
 - [implementation](#implementation) (11)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
@@ -118,6 +118,7 @@
 | 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
+| 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 
 ### implementation
 
