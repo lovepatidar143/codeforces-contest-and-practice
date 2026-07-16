@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 17 |
+| 39 | 17 |
 
 ---
 
@@ -17,15 +17,15 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (21)
+- [greedy](#greedy) (22)
 - [implementation](#implementation) (11)
-- [math](#math) (15)
-- [number theory](#number-theory) (2)
+- [math](#math) (16)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (11)
 - [strings](#strings) (6)
 - [two pointers](#two-pointers) (4)
@@ -78,6 +78,7 @@
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### data structures
 
@@ -96,6 +97,7 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2173B | [Niko's Tactical Cards](https://codeforces.com/contest/2173/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2173/B%20-%20Niko's%20Tactical%20Cards/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### dsu
 
@@ -134,6 +136,7 @@
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### implementation
 
@@ -170,6 +173,7 @@
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### number theory
 
@@ -177,6 +181,7 @@
 |---|---------|------------|----------|
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### sortings
 
