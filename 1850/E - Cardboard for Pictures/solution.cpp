@@ -30,7 +30,7 @@ void solve() {
  
     long double ans = r1/(2.0L*a) ;
     long long final = llround(ans); 
-    cout << (long long )(ans+0.5L) << endl ; 
+    cout << (long long )(ans) << endl ; 
  
  
     
