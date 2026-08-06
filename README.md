@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 18 |
+| 61 | 18 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [dp](#dp) (9)
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (29)
 - [implementation](#implementation) (14)
 - [math](#math) (24)
 - [number theory](#number-theory) (5)
@@ -163,6 +163,7 @@
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 
 ### implementation
 
