@@ -16,17 +16,12 @@ void solve() {
     for(int i = 0 ; i< n;  i++) cin >> a[i] ; 
  
     int ans = 0 ;
-    bool check = true; 
-    for(int i = 0 ; i< n /2 ; i++){
-        if(a[i] != a[n-i-1]) {
-            check = false ; 
-            break ; 
-        }
-    }
-    if(check){
-        cout << 0 << endl ; 
-        return ; 
-    }
+ 
+ 
+    // if(check){
+    //     cout << 0 << endl ; 
+    //     return ; 
+    // }
  
     for(int i = 0 ; i < n/2 ; i++){
         ans = __gcd(ans ,abs(a[i] -a[n-i-1])) ; 
