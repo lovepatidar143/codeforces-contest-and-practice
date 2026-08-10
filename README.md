@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 18 |
+| 63 | 18 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (5)
-- [bitmasks](#bitmasks) (3)
+- [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (10)
 - [dsu](#dsu) (1)
@@ -27,7 +27,7 @@
 - [math](#math) (24)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (19)
+- [sortings](#sortings) (20)
 - [strings](#strings) (7)
 - [two pointers](#two-pointers) (7)
 
@@ -61,6 +61,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
@@ -91,6 +92,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
@@ -236,6 +238,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
