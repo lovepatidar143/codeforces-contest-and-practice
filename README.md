@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 18 |
+| 66 | 18 |
 
 ---
 
@@ -18,18 +18,18 @@
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
 - [dp](#dp) (10)
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (32)
+- [greedy](#greedy) (33)
 - [implementation](#implementation) (14)
-- [math](#math) (24)
+- [math](#math) (25)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (20)
 - [strings](#strings) (8)
-- [two pointers](#two-pointers) (8)
+- [two pointers](#two-pointers) (9)
 
 ---
 
@@ -105,6 +105,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
@@ -143,6 +144,7 @@
 |---|---------|------------|----------|
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
@@ -200,6 +202,7 @@
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
 | 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.cpp) |
@@ -280,6 +283,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1820B | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1820/B%20-%20JoJo's%20Incredible%20Adventures/solution.cpp) |
