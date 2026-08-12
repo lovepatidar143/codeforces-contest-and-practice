@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 18 |
+| 70 | 19 |
 
 ---
 
@@ -15,20 +15,21 @@
 - [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (3)
+- [data structures](#data-structures) (4)
 - [dp](#dp) (11)
 - [dsu](#dsu) (1)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (35)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (26)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (20)
 - [strings](#strings) (8)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
 
 ---
@@ -71,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1673B | [A Perfectly Balanced String?](https://codeforces.com/contest/1673/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1673/B%20-%20A%20Perfectly%20Balanced%20String%3F/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
@@ -105,6 +107,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -189,6 +192,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
@@ -282,6 +286,12 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/lovepatidar143/codeforces-contest-and-practice/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 
 ### two pointers
 
